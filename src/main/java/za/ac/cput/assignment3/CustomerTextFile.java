@@ -12,9 +12,7 @@ import java.io.IOException;
  */ 
 
 public class CustomerTextFile {
-   
-    
-    public static void main(String[] args) {
+   public static void main(String[] args) {
        
         }
 }
